@@ -1,0 +1,28 @@
+.body{
+    
+    background-image: linear-gradient(to right,rgb(145, 213, 241),rgb(69, 187, 238));
+}
+
+.btn-info {
+    position: center;
+    text-decoration: none;
+    color: white;
+    border: 3px solid dodgerblue;
+    border-radius: 10px;
+}
+
+.btn-success {
+    width: 10em; 
+    text-decoration: none;
+    color: white;
+    border: 3px solid rgb(5, 82, 46);
+    border-radius: 10px;
+    margin-left: 40em;
+}
+
+.btn-danger{
+    color: white;
+    border: 3px solid rgb(78, 3, 19);
+    border-radius: 10px;
+}
+

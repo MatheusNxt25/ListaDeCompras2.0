@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body{
+    background-image: linear-gradient(to right,rgb(145, 213, 241),rgb(69, 187, 238));
+    text-align: center;
+    color: white;
+}
+
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(0,0,0,0.8);;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    border: 3px solid dodgerblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.a:hover{
+    background-color: dodgerblue;
+}
