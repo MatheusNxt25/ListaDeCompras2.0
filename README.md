@@ -1,8 +1,8 @@
 # ListaDeCompras2.0
 
-<p> Lista de compras atualizada </p>
+<h1> Lista de compras atualizada </h1>
 <br>
-<a> 1- Programa foi utilizado a ferramenta XAMPP , ultizando banco de dados MYSQL;</a>
-<a>2- Criar banco de dados chamado "listadeprodutos;</a>
-<a>3- As tabelas e colunas são criadas ao executar o codigo;</a>
+<p> 1- Programa foi utilizado a ferramenta XAMPP , ultizando banco de dados MYSQL;</p>
+<p>2- Criar banco de dados chamado "listadeprodutos;</p>
+<p>3- As tabelas e colunas são criadas ao executar o codigo;</p>
    
